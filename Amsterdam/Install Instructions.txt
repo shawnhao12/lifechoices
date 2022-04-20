@@ -1,0 +1,25 @@
+Hey all,
+
+Thank you for downloading my game. Hope you'll like it. Just a few install tips below:
+
+1) Whenever you first download the game you should download the following files:
+	A) The latest HTML file - Currently V0.8.7.0 - the name is: 'Life choices V0.8.7.0.html'
+	B) The latest main image pack, also called data folder - Currently V0.8.7.0 - the name is: 'Amsterdam.zip'
+	(A+B) Note: It could be that A & B are combined in one download. If it is, there is only one download button.)
+	C) The additional image pack - Currently there is none
+
+2) Make sure that your main folder (can have any name) only has 2 things in it: 
+	A) The folder Amsterdam
+	B) The HTML file 'Life Choices'
+
+3) Any current version of the game and the data folder can be thrown away completely!
+
+4) It should look like the example picture (Example.jpg), which I included in the Data folder where you found these instructions. (FYI: The folder Amsterdam has a lot of subfolders with all the vids/pictures).
+
+5) For any feedback, questions or remarks, or to download the game, please go to either one of the following:
+	A) My Patreon site: https://www.patreon.com/BurningSun
+	B) Where I first uploaded the game: http://www.tfgamessite.com/?module=viewgame&id=953
+	C) The F95 zone: https://f95zone.com/threads/life-choices-v0-8-5-3-burningsun.7/
+
+That's it & have fun playing the game.
+BurningSun
